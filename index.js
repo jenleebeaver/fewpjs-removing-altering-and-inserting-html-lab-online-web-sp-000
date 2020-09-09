@@ -1,3 +1,5 @@
 // Write your code here!
-main.classList.remove("main");
+// removes main 
 main.remove();
+
+h1.victory = "newHeader"
