@@ -4,6 +4,7 @@ main.remove();
 
 // creates newHeader variable
 const newHeader = document.createElement("h1");
+// gives newHeader an id of victory 
 newHeader.id="victory"
 
 // /* Create your new element here and assign it to newHeader */
