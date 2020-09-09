@@ -2,4 +2,4 @@
 // removes main
 main.remove();
 
-h1.victory = "newHeader";
+h1.victory = "newHeader"
