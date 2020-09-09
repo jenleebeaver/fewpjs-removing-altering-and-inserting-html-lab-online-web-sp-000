@@ -2,7 +2,7 @@
 // removes main
 main.remove();
 
-let newHeader = document.createElement("h1#victory");
+const newHeader = document.createElement("h1#victory");
 
 // /* Create your new element here and assign it to newHeader */
 // const newHeader = document.createElement("h1");
