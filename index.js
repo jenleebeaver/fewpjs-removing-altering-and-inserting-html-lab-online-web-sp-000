@@ -7,5 +7,3 @@ const newHeader = document.createElement("h1");
 // gives newHeader an id of victory
 newHeader.id="victory"
 newHeader.innerHTML = "Flatiron School is the champion!";
-
-
