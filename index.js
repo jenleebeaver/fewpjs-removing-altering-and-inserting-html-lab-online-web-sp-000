@@ -2,4 +2,4 @@
 // removes main
 main.remove();
 
-h1.victory = "newHeader"
+let newHeader = document.querySelector("h1#victory");
